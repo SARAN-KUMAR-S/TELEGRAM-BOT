@@ -1,0 +1,3 @@
+ aiogram
+ google.generativeai
+ python-dotenv
